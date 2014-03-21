@@ -152,7 +152,7 @@
           <p class="lead">Das Cafe bietet eine ruhige Umgebung, in der Sie sich vom Stress des Alltags erholen können.</p>
         </div>
         <div class="col-md-5" style="height:400px;">
-          <a href="/images/cafe_fisheye.jpg" target="_blank"><img class="featurette-image img-responsive" src="images/cafe_impression.png" alt="Das Cafe"></a>
+          <img class="featurette-image img-responsive" src="images/cafe_impression.png" alt="Das Cafe">
         </div>
       </div>
 
