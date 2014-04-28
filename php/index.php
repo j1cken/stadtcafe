@@ -77,7 +77,7 @@
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
 	      <h1>1. Mai - Weisswurstfrühstück</h1>
-	      <p><a href="/pdfs/Flyer1.Mai.pdf" target="_blank"><img src="/images/Flyer1.Mai.thumb.png"/></a></p>
+	      <p>&dot;<a href="/pdfs/Flyer1.Mai.pdf" target="_blank"><img src="/images/Flyer1.Mai.thumb.png"/></a>&dot;</p>
 	    </div>
 	  </div>
 	</div>
@@ -96,8 +96,8 @@
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
-	      <h1>NEUERÖFFNUNG</h1>
-	      <p>am 20. März ... zum Flyer geht's <a href="/pdfs/FlyerCafe.pdf" target="_blank">hier</a></p>
+	      <h1>20. März - NEUERÖFFNUNG</h1>
+	      <p>&dot;<a href="/pdfs/FlyerCafe.pdf" target="_blank"><img src="/images/FlyerCafe.thumb.png"/></a>&dot;</p>
 	    </div>
 	  </div>
 	</div>
