@@ -72,7 +72,7 @@
       </ol>
       <div class="carousel-inner">
 	<div class="item active">
-	  <img src="images/calendar.png" alt="First slide"/>
+	  <img src="images/calendar.jpg" alt="First slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
