@@ -72,7 +72,7 @@
       </ol>
       <div class="carousel-inner">
 	<div class="item active">
-	  <img src="images/schrank.png" alt="First slide"/>
+	  <img src="images/calendar.png" alt="First slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
@@ -82,7 +82,7 @@
 	  </div>
 	</div>
 	<div class="item">
-	  <img src="images/schrank.png" alt="Second slide"/>
+	  <img src="images/table.png" alt="Second slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
