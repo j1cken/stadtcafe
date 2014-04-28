@@ -67,46 +67,46 @@
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-	<!--        
 	<li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
+	<!--        
 	-->
       </ol>
-      <div class="carousel-inner">
-        <div class="item active">
-          <img src="images/schrank.png" alt="First slide">
-          <div class="container">
-            <div class="carousel-caption">
+	<div class="item">
+	  <img src="images/schrank.png" alt="First slide">
+	  <div class="container">
+	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info">
-              <h1>NEUERÖFFNUNG</h1>
-              <p>am 20. März ... zum Flyer geht's <a href="/pdfs/FlyerCafe.pdf" target="_blank">hier</a></p>
-            </div>
+	      <h1>1. Mai</h1>
+	      <p>Weisswurstfrüstück ... zum Flyer geht's <a href="/pdfs/Flyer1.Mai.pdf" target="_blank">hier</a></p>
+	    </div>
 	  </div>
-        </div>
+	</div>
+	<div class="item">
+	  <img src="images/schrank.png" alt="Second slide">
+	  <div class="container">
+	    <div class="carousel-caption">
+	      <img src="images/info.png" alt="Info">
+	      <h1>Frühstück</h1>
+	      <p>Donnerstag bis Sonntag, ab 09:00h!</p>
+	    </div>
+	  </div>
+	</div>
+	<div class="carousel-inner">
+	<div class="item active">
+	  <img src="images/schrank.png" alt="Third slide">
+	  <div class="container">
+	    <div class="carousel-caption">
+	      <img src="images/info.png" alt="Info">
+	      <h1>NEUERÖFFNUNG</h1>
+	      <p>am 20. März ... zum Flyer geht's <a href="/pdfs/FlyerCafe.pdf" target="_blank">hier</a></p>
+	    </div>
+	  </div>
+	</div>
+	</div>
+	<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+	<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 	<!--
-        <div class="item">
-          <img data-src="holder.js/900x500/auto/#666:#6a6a6a/text:Second slide" alt="Second slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">2
-          <img data-src="holder.js/900x500/auto/#555:#5a5a5a/text:Third slide" alt="Third slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
 	-->
       </div><!-- carousel-inner -->
     </div><!-- /.carousel -->
