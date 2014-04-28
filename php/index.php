@@ -82,7 +82,7 @@
 	  </div>
 	</div>
 	<div class="item">
-	  <img src="images/table.png" alt="Second slide"/>
+	  <img src="images/table.jpg" alt="Second slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
@@ -92,7 +92,7 @@
 	  </div>
 	</div>
 	<div class="item">
-	  <img src="images/schrank.png" alt="Third slide"/>
+	  <img src="images/schrank.jpg" alt="Third slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
