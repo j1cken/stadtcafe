@@ -72,6 +72,7 @@
 	<!--        
 	-->
       </ol>
+      <div class="carousel-inner">
 	<div class="item active">
 	  <img src="images/schrank.png" alt="First slide">
 	  <div class="container">
@@ -92,7 +93,6 @@
 	    </div>
 	  </div>
 	</div>
-	<div class="carousel-inner">
 	<div class="item">
 	  <img src="images/schrank.png" alt="Third slide">
 	  <div class="container">
@@ -102,7 +102,6 @@
 	      <p>am 20. März ... zum Flyer geht's <a href="/pdfs/FlyerCafe.pdf" target="_blank">hier</a></p>
 	    </div>
 	  </div>
-	</div>
 	</div>
 	<a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
 	<a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
