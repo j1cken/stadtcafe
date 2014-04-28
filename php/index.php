@@ -72,30 +72,30 @@
       </ol>
       <div class="carousel-inner">
 	<div class="item active">
-	  <img src="images/schrank.png" alt="First slide">
+	  <img src="images/schrank.png" alt="First slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
-	      <img src="images/info.png" alt="Info">
-	      <h1>1. Mai</h1>
-	      <p>Weisswurstfrühstück ... zum Flyer geht's <a href="/pdfs/Flyer1.Mai.pdf" target="_blank">hier</a></p>
+	      <img src="images/info.png" alt="Info"/>
+	      <h1>1. Mai - Weisswurstfrühstück</h1>
+	      <p><a href="/pdfs/Flyer1.Mai.pdf" target="_blank"><img src="/images/Flyer1.Mai.thumb.png"/></a></p>
 	    </div>
 	  </div>
 	</div>
 	<div class="item">
-	  <img src="images/schrank.png" alt="Second slide">
+	  <img src="images/schrank.png" alt="Second slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
-	      <img src="images/info.png" alt="Info">
+	      <img src="images/info.png" alt="Info"/>
 	      <h1>Frühstück</h1>
 	      <p>Donnerstag bis Sonntag, ab 09:00h!</p>
 	    </div>
 	  </div>
 	</div>
 	<div class="item">
-	  <img src="images/schrank.png" alt="Third slide">
+	  <img src="images/schrank.png" alt="Third slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
-	      <img src="images/info.png" alt="Info">
+	      <img src="images/info.png" alt="Info"/>
 	      <h1>NEUERÖFFNUNG</h1>
 	      <p>am 20. März ... zum Flyer geht's <a href="/pdfs/FlyerCafe.pdf" target="_blank">hier</a></p>
 	    </div>
