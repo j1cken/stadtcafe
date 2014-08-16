@@ -120,18 +120,18 @@ Tanja Jäger und ihr Team</p>
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-4">
-          <img src="images/clock.png" alt="Clockwork">
+          <img src="images/clock.png" alt="Clockwork" />
           <h2>Öffnungszeiten</h2>
           <p>Donnerstag - Sonntag</p>
           <p>09:00h - 18:00h</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img src="images/facebook.png" alt="Facebook">
+          <img src="images/facebook.png" alt="Facebook" />
           <h2>Social Media</h2>
           <p>Connect <a href="https://www.facebook.com/cafehelmbundhoehe"><b>here</b></a>...</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img src="images/home.png" alt="Adresse">
+          <img src="images/home.png" alt="Adresse" />
           <h2>Cafe Helmbundhöhe</h2>
           <p>Helmbundstrasse 20 | 74196 Neuenstadt</p>
           <p>T +49 7139 512 92 85 | Fax +49 7139 512 92 87</p>
