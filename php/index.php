@@ -72,12 +72,15 @@
       </ol>
       <div class="carousel-inner">
 	<div class="item active">
-	  <img src="images/calendar.jpg" alt="First slide"/>
+	  <img src="images/urlaub.jpg" alt="First slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
-	      <h1>1. Mai - Weisswurstfrühstück</h1>
-	      <p>&dot;<a href="/pdfs/Flyer1.Mai.pdf" target="_blank"><img src="/images/Flyer1.Mai.thumb.png"/></a>&dot;</p>
+	      <h1>Wir machen Urlaub!</h1>
+	      <p>Das Cafe ist <b>vom Sonntag, dem 17. August, bis zum Sonntag, dem 07. September</b>, geschlossen.
+Wir sind wieder am Donnerstag, dem 11. September, wie gewohnt ab 09:00 Uhr für euch da.</p>
+<p>Viele Grüsse,
+Tanja Jäger und ihr Team</p>
 	    </div>
 	  </div>
 	</div>
@@ -96,8 +99,8 @@
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
-	      <h1>20. März - NEUERÖFFNUNG</h1>
-	      <p>&dot;<a href="/pdfs/FlyerCafe.pdf" target="_blank"><img src="/images/FlyerCafe.thumb.png"/></a>&dot;</p>
+	      <h1>Die Karte</h1>
+	      <p>&dot;<a href="/pdfs/CafeKarte.pdf" target="_blank"><img src="/images/FlyerCafe.thumb.png"/></a>&dot;</p>
 	    </div>
 	  </div>
 	</div>
