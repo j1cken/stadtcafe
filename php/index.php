@@ -78,7 +78,7 @@
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <h1>Motorman Run 2014</h1>
-	      <p>Wir sind am Start. Mit einem Verpflegungsstand.</p>
+	      <p>Wir sind am Start. Mit einem Verpflegungsstand. Fuer die Unterstuetzer. Naehe Hinderniss 36 (Waschmaschine).</p>
 	      <img src="images/info.png" alt="Info"/>
 	    </div>
 	  </div>
@@ -147,7 +147,7 @@ Tanja Jäger und ihr Team</p>
 
       <hr class="featurette-divider">
 
-      <div id="maps" class="row featurette">
+      <div id="maps" class="row featurette" style="text-align:center">
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2605.1212678280126!2d9.329550000000001!3d49.23619!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47982354430e217b%3A0x2846f535af9d2b98!2sHelmbundstra%C3%9Fe+20%2C+74196+Neuenstadt+am+Kocher!5e0!3m2!1sde!2sde!4v1410255978268" width="800" height="300" frameborder="0" style="border:0"></iframe>
       </div>
 
