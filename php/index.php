@@ -77,8 +77,9 @@
 	  <img src="images/turnschuh.jpg" alt="First slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
-	      <h1>Motorman Run 2014</h1>
-	      <p>Wir sind am Start. Mit einem Verpflegungsstand. Fuer die Unterstuetzer. Naehe Hinderniss 36 (Waschmaschine).</p>
+	      <h1><a href="http://www.motormanrun.de/" target="_blank">Motorman Run 2014</a></h1>
+	      <p>am 13. September</p>
+	      <p>Wir sind am Start. Mit einem Verpflegungsstand. Für die Unterstützer. Nähe Hindernis 36 (Waschmaschine).</p>
 	      <img src="images/info.png" alt="Info"/>
 	    </div>
 	  </div>
@@ -131,7 +132,7 @@ Tanja Jäger und ihr Team</p>
         <div class="col-lg-4">
           <img src="images/facebook.png" alt="Facebook" />
           <h2>Social Media</h2>
-          <p>Connect <a href="https://www.facebook.com/cafehelmbundhoehe"><b>here</b></a>...</p>
+          <p>Connect <a href="https://www.facebook.com/cafehelmbundhoehe" target="_blank"><b>here</b></a>...</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img src="images/home.png" alt="Adresse" />
@@ -171,7 +172,7 @@ Tanja Jäger und ihr Team</p>
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Die Bohne. <span class="text-muted">Aus dem Hause J.J. Darboven.</span></h2>
-          <p class="lead">Ein seit 1866 bestehendes Unternehmen, das sich durch seinen bekömmlichen Kaffee auszeichnet und zertifizierte Bio-Kaffees im Sortiment führt. Weitere Informationen finden Sie <a href="http://www.darboven.com/">hier</a>.</p>
+          <p class="lead">Ein seit 1866 bestehendes Unternehmen, das sich durch seinen bekömmlichen Kaffee auszeichnet und zertifizierte Bio-Kaffees im Sortiment führt. Weitere Informationen finden Sie <a href="http://www.darboven.com/" target="_blank">hier</a>.</p>
         </div>
       </div>
 
@@ -180,7 +181,7 @@ Tanja Jäger und ihr Team</p>
       <div id="cimbali" class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Die Maschine. <span class="text-muted">Aus dem Hause Cimbali.</span></h2>
-          <p class="lead">Technik, die eine Tasse Kaffee zu einem grossartigen Erlebnis verwandelt. Weitere Informationen finden Sie <a href="http://www.cimbali.de/">hier</a>.</p>
+          <p class="lead">Technik, die eine Tasse Kaffee zu einem grossartigen Erlebnis verwandelt. Weitere Informationen finden Sie <a href="http://www.cimbali.de/" target="_blank">hier</a>.</p>
         </div>
         <div class="col-md-5" style="height:400px;">
           <img class="featurette-image img-responsive" src="images/m29select.jpg" alt="La Cimbali">
@@ -195,7 +196,7 @@ Tanja Jäger und ihr Team</p>
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Der Tee. <span class="text-muted">Aus dem Hause Teecultur.</span></h2>
-          <p class="lead">Das Teefachgeschäft aus Neckarsulm bietet Teegenuss von Anfang an. Weitere Informationen finden Sie <a href="http://www.teecultur.de/">hier</a>.</p>
+          <p class="lead">Das Teefachgeschäft aus Neckarsulm bietet Teegenuss von Anfang an. Weitere Informationen finden Sie <a href="http://www.teecultur.de/" target="_blank">hier</a>.</p>
         </div>
       </div>
 
@@ -204,7 +205,7 @@ Tanja Jäger und ihr Team</p>
       <div id="feyerabend" class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Der Kuchen. <span class="text-muted">Aus dem Hause Feyerabend.</span></h2>
-          <p class="lead">In Bad Wimpfen werden die selbst gemachten Backwaren, Kuchen und Torten nur mit besten Zutaten und ohne chemische Zusätze oder Geschmacksverstärker hergestellt. Weitere Informationen finden Sie <a href="http://www.friedrich-feyerabend.de/">hier</a>.</p>
+          <p class="lead">In Bad Wimpfen werden die selbst gemachten Backwaren, Kuchen und Torten nur mit besten Zutaten und ohne chemische Zusätze oder Geschmacksverstärker hergestellt. Weitere Informationen finden Sie <a href="http://www.friedrich-feyerabend.de/" target="_blank">hier</a>.</p>
         </div>
         <div class="col-md-5" style="height:400px;">
           <img class="featurette-image img-responsive" src="images/ff.png" alt="Restaurant Friedrich - Weinstube Feyerabend">
