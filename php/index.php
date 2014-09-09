@@ -77,7 +77,7 @@
 	  <img src="images/turnschuh.jpg" alt="First slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
-	      <h1><a href="http://www.motormanrun.de/" target="_blank">Motorman Run 2014</a></h1>
+	      <h1><a href="http://www.motormanrun.de/" target="_blank" style="color:#FFF">Motorman Run 2014</a></h1>
 	      <p>am 13. September</p>
 	      <p>Wir sind am Start. Mit einem Verpflegungsstand. Für die Unterstützer. Nähe Hindernis 36 (Waschmaschine).</p>
 	      <img src="images/info.png" alt="Info"/>
