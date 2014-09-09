@@ -77,9 +77,9 @@
 	  <img src="images/turnschuh.jpg" alt="First slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
-	      <img src="images/info.png" alt="Info"/>
 	      <h1>Motorman Run 2014</h1>
 	      <p>Wir sind am Start. Mit einem Verpflegungsstand.</p>
+	      <img src="images/info.png" alt="Info"/>
 	    </div>
 	  </div>
 	</div>
@@ -87,12 +87,12 @@
 	  <img src="images/urlaub.jpg" alt="Second slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
-	      <img src="images/info.png" alt="Info"/>
 	      <h1>Wir machen Urlaub!</h1>
 	      <p>Das Cafe ist <b>vom Sonntag, dem 17. August, bis zum Sonntag, dem 07. September</b>, geschlossen.
 Wir sind wieder am Donnerstag, dem 11. September, wie gewohnt ab 09:00 Uhr für euch da.</p>
 <p>Viele Grüsse,
 Tanja Jäger und ihr Team</p>
+	      <img src="images/info.png" alt="Info"/>
 	    </div>
 	  </div>
 	</div>
@@ -100,9 +100,9 @@ Tanja Jäger und ihr Team</p>
 	  <img src="images/table.jpg" alt="Third slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
-	      <img src="images/info.png" alt="Info"/>
 	      <h1>Frühstück</h1>
 	      <p>Donnerstag bis Sonntag, ab 09:00h!</p>
+	      <img src="images/info.png" alt="Info"/>
 	    </div>
 	  </div>
 	</div>
@@ -147,7 +147,7 @@ Tanja Jäger und ihr Team</p>
 
       <hr class="featurette-divider">
 
-      <div id="cafe" class="row featurette">
+      <div id="maps" class="row featurette">
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2605.1212678280126!2d9.329550000000001!3d49.23619!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47982354430e217b%3A0x2846f535af9d2b98!2sHelmbundstra%C3%9Fe+20%2C+74196+Neuenstadt+am+Kocher!5e0!3m2!1sde!2sde!4v1410255978268" width="800" height="300" frameborder="0" style="border:0"></iframe>
       </div>
 
