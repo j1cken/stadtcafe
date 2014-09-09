@@ -71,8 +71,21 @@
         <li data-target="#myCarousel" data-slide-to="2"></li>
       </ol>
       <div class="carousel-inner">
+      
+      
 	<div class="item active">
-	  <img src="images/urlaub.jpg" alt="First slide"/>
+	  <img src="images/turnschuh.jpg" alt="First slide"/>
+	  <div class="container">
+	    <div class="carousel-caption">
+	      <img src="images/info.png" alt="Info"/>
+	      <h1>Motorman Run 2014</h1>
+	      <p>Wir sind am Start. Mit einem Verpflegungsstand.</p>
+	      <p><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2605.1212678280126!2d9.329550000000001!3d49.23619!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47982354430e217b%3A0x2846f535af9d2b98!2sHelmbundstra%C3%9Fe+20%2C+74196+Neuenstadt+am+Kocher!5e0!3m2!1sde!2sde!4v1410255978268" width="400" height="300" frameborder="0" style="border:0"></iframe></p>
+	    </div>
+	  </div>
+	</div>
+	<div class="item">
+	  <img src="images/urlaub.jpg" alt="Second slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
@@ -85,7 +98,7 @@ Tanja Jäger und ihr Team</p>
 	  </div>
 	</div>
 	<div class="item">
-	  <img src="images/table.jpg" alt="Second slide"/>
+	  <img src="images/table.jpg" alt="Third slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
 	      <img src="images/info.png" alt="Info"/>
@@ -94,16 +107,7 @@ Tanja Jäger und ihr Team</p>
 	    </div>
 	  </div>
 	</div>
-	<div class="item">
-	  <img src="images/schrank.jpg" alt="Third slide"/>
-	  <div class="container">
-	    <div class="carousel-caption">
-	      <img src="images/info.png" alt="Info"/>
-	      <h1>Die Karte</h1>
-	      <p>&dot;<a href="/pdfs/CafeKarte.pdf" target="_blank"><img src="/images/FlyerCafe.thumb.png"/></a>&dot;</p>
-	    </div>
-	  </div>
-	</div>
+
       </div><!-- carousel-inner -->
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
@@ -141,6 +145,12 @@ Tanja Jäger und ihr Team</p>
 
 
       <!-- START THE FEATURETTES -->
+
+      <hr class="featurette-divider">
+
+      <div id="cafe" class="row featurette">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2605.1212678280126!2d9.329550000000001!3d49.23619!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47982354430e217b%3A0x2846f535af9d2b98!2sHelmbundstra%C3%9Fe+20%2C+74196+Neuenstadt+am+Kocher!5e0!3m2!1sde!2sde!4v1410255978268" width="800" height="300" frameborder="0" style="border:0"></iframe>
+      </div>
 
       <hr class="featurette-divider">
 
