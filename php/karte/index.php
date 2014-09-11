@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Cafe Helmbundhöhe</title>
+    <title>Stadtcafe</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
@@ -40,7 +40,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="/">Cafe Helmbundhöhe</a>
+              <a class="navbar-brand" href="/">Stadtcafe</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -69,7 +69,7 @@
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">nach oben</a></p>
-        <p>&copy; 2014 Cafe Helmbundhöhe &middot; <a href="/impressum">Impressum</a></p>
+        <p>&copy; 2014 Stadtcafe &middot; <a href="/impressum">Impressum</a></p>
       </footer>
 
     </div><!-- /.container -->

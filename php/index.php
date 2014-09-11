@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
 
-    <title>Cafe Helmbundhöhe</title>
+    <title>Stadtcafe</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -40,7 +40,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="/">Cafe Helmbundhöhe</a>
+              <a class="navbar-brand" href="/">Stadtcafe</a>
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -77,7 +77,7 @@
 	  <img src="images/turnschuh.jpg" alt="First slide"/>
 	  <div class="container">
 	    <div class="carousel-caption">
-	      <h1><a href="http://www.motormanrun.de/" target="_blank" style="color:#FFF">Motorman Run 2014</a></h1>
+	      <h1><a href="http://www.motormanrun.de/" target="_blank" style="color:#FFF">Motorman Run 2014...</a></h1>
 	      <p>am 13. September</p>
 	      <p>Wir sind am Start. Mit einem Verpflegungsstand. Für die Unterstützer. Nähe Hindernis 36 (Waschmaschine).</p>
 	      <img src="images/info.png" alt="Info"/>
@@ -136,7 +136,7 @@ Tanja Jäger und ihr Team</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img src="images/home.png" alt="Adresse" />
-          <h2>Cafe Helmbundhöhe</h2>
+          <h2>Stadtcafe</h2>
           <p>Helmbundstrasse 20 | 74196 Neuenstadt</p>
           <p>T +49 7139 512 92 85 | Fax +49 7139 512 92 87</p>
           <p><a class="btn btn-danger" href="mailto:tanja@cafe-helmbundhoehe.de?Subject=Anfrage%20Website" role="button">Email &raquo;</a></p>
@@ -220,7 +220,7 @@ Tanja Jäger und ihr Team</p>
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">nach oben</a></p>
-        <p>&copy; 2014 Cafe Helmbundhöhe &middot; <a href="/impressum">Impressum</a></p>
+        <p>&copy; 2014 Stadtcafe &middot; <a href="/impressum">Impressum</a></p>
       </footer>
 
     </div><!-- /.container -->
