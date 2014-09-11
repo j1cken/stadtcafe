@@ -132,7 +132,7 @@ Tanja Jäger und ihr Team</p>
         <div class="col-lg-4">
           <img src="images/facebook.png" alt="Facebook" />
           <h2>Social Media</h2>
-          <p>Connect <a href="https://www.facebook.com/cafehelmbundhoehe" target="_blank"><b>here</b></a>...</p>
+          <p>Connect <a href="https://www.facebook.com/stadtcafe.neuenstadt" target="_blank"><b>here</b></a>...</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img src="images/home.png" alt="Adresse" />
