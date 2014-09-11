@@ -139,7 +139,7 @@ Tanja Jäger und ihr Team</p>
           <h2>Stadtcafe</h2>
           <p>Helmbundstrasse 20 | 74196 Neuenstadt</p>
           <p>T +49 7139 512 92 85 | Fax +49 7139 512 92 87</p>
-          <p><a class="btn btn-danger" href="mailto:tanja@cafe-helmbundhoehe.de?Subject=Anfrage%20Website" role="button">Email &raquo;</a></p>
+          <p><a class="btn btn-danger" href="mailto:tanja@stadtcafe.biz?Subject=Anfrage%20Website" role="button">Email &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
