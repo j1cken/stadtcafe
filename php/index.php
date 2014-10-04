@@ -104,7 +104,6 @@
           </div>
         </div>
         <div class="item">
-          <img src="images/table.jpg" alt="Third slide"/>
           <div class="container">
             <div class="carousel-caption">
               <div class="container-fluid">
