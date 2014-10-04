@@ -75,7 +75,7 @@
         <div class="item active">
           <div class="container">
             <div class="carousel-caption">
-              <div class="container">
+              <div class="container-fluid">
               <div class="row">
                 <div class="col-md-1"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-1"><img src="images/logo.png" alt="Logo"/></div>
