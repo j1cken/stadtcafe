@@ -78,7 +78,7 @@
               <div class="container-fluid">
               <div class="row">
                 <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
-                <div class="col-md-4"><img src="images/logo.png" alt="Logo"/></div>
+                <div class="col-md-4"><img src="images/logo.png" alt="Logo" class="img-thumbnail"/></div>
                 <div class="col-md-4">
                   Cafe Helmbundhöhe wird 
                   <h1>Stadtcafe</h1>
@@ -92,10 +92,10 @@
         <div class="item">
           <div class="container">
             <div class="carousel-caption">
-              <div class="container">
+              <div class="container-fluid">
               <div class="row">
-                <div class="col-md-1"><img src="images/info.png" alt="Info"/></div>
-                <div class="col-md-1">
+                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
+                <div class="col-md-8">
                   <h1>Neue Öffnungszeiten!</h1>
                   <p>Ab Oktober haben wir schon ab Mittwoch für euch geöffnet!</p>
                 </div>
@@ -108,9 +108,15 @@
           <img src="images/table.jpg" alt="Third slide"/>
           <div class="container">
             <div class="carousel-caption">
+              <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
+                <div class="col-md-8">
               <h1>Frühstück</h1>
               <p>Mittwoch bis Sonntag, ab 09:00h!</p>
-              <img src="images/info.png" alt="Info"/>
+                </div>
+              </div><!-- row -->
+              </div><!-- container -->
             </div>
           </div>
         </div>
