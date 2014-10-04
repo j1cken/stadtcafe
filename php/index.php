@@ -75,6 +75,7 @@
         <div class="item active">
           <div class="container">
             <div class="carousel-caption">
+              <div class="container">
               <div class="row">
                 <div class="col-md-1"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-1"><img src="images/logo.png" alt="Logo"/></div>
@@ -83,20 +84,23 @@
                   <h1>Stadtcafe</h1>
                   <p>Der Name ändert sich, der Anspruch bleibt!</p>
                 </div>
-              </div>
+              </div><!-- row -->
+              </div><!-- container -->
             </div>
           </div>
         </div>
         <div class="item">
           <div class="container">
             <div class="carousel-caption">
+              <div class="container">
               <div class="row">
                 <div class="col-md-1"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-1">
                   <h1>Neue Öffnungszeiten!</h1>
                   <p>Ab Oktober haben wir schon ab Mittwoch für euch geöffnet!</p>
                 </div>
-              </div>
+              </div><!-- row -->
+              </div><!-- container -->
             </div>
           </div>
         </div>
