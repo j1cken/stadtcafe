@@ -220,7 +220,7 @@
 
       <div id="teecultur" class="row featurette">
         <div class="col-md-5" style="height:400px;">
-          <img class="featurette-image img-responsive" src="images/teecultur.gif" alt="TEECULTUR">
+          <img class="featurette-image img-responsive" src="images/teecultur.png" alt="TEECULTUR">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Der Tee. <span class="text-muted">Aus dem Hause Teecultur.</span></h2>
