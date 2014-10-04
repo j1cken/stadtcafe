@@ -134,7 +134,7 @@
         <div class="col-lg-4">
           <img src="images/clock.png" alt="Clockwork" />
           <h2>Öffnungszeiten</h2>
-          <p>Donnerstag - Sonntag</p>
+          <p>Mittwoch - Sonntag</p>
           <p>09:00h - 18:00h</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
