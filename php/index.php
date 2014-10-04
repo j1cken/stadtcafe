@@ -72,43 +72,47 @@
       </ol>
       <div class="carousel-inner">
       
-      
-	<div class="item active">
-	  <img src="images/turnschuh.jpg" alt="First slide"/>
-	  <div class="container">
-	    <div class="carousel-caption">
-	      <h1><a href="http://www.motormanrun.de/" target="_blank" style="color:#FFF">Motorman Run 2014...</a></h1>
-	      <p>am 13. September</p>
-	      <p>Wir sind am Start. Mit einem Verpflegungsstand. Für die Unterstützer. Nähe Hindernis 36 (Waschmaschine).</p>
-	      <img src="images/info.png" alt="Info"/>
-	    </div>
-	  </div>
-	</div>
-	<div class="item">
-	  <img src="images/urlaub.jpg" alt="Second slide"/>
-	  <div class="container">
-	    <div class="carousel-caption">
-	      <h1>Wir machen Urlaub!</h1>
-	      <p>Das Cafe ist <b>vom Sonntag, dem 17. August, bis zum Sonntag, dem 07. September</b>, geschlossen.
-Wir sind wieder am Donnerstag, dem 11. September, wie gewohnt ab 09:00 Uhr für euch da.</p>
-<p>Viele Grüsse,
-Tanja Jäger und ihr Team</p>
-	      <img src="images/info.png" alt="Info"/>
-	    </div>
-	  </div>
-	</div>
-	<div class="item">
-	  <img src="images/table.jpg" alt="Third slide"/>
-	  <div class="container">
-	    <div class="carousel-caption">
-	      <h1>Frühstück</h1>
-	      <p>Donnerstag bis Sonntag, ab 09:00h!</p>
-	      <img src="images/info.png" alt="Info"/>
-	    </div>
-	  </div>
-	</div>
+        <div class="item active">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="row">
+                <div class="col-md-1"><img src="images/info.png" alt="Info"/></div>
+                <div class="col-md-1"><img src="images/logo.png" alt="Logo"/></div>
+                <div class="col-md-1">
+                  Cafe Helmbundhöhe wird 
+                  <h1>Stadtcafe</h1>
+                  <p>Der Name ändert sich, der Anspruch bleibt!</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="row">
+                <div class="col-md-1"><img src="images/info.png" alt="Info"/></div>
+                <div class="col-md-1">
+                  <h1>Neue Öffnungszeiten!</h1>
+                  <p>Ab Oktober haben wir schon ab Mittwoch für euch geöffnet!</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="images/table.jpg" alt="Third slide"/>
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Frühstück</h1>
+              <p>Mittwoch bis Sonntag, ab 09:00h!</p>
+              <img src="images/info.png" alt="Info"/>
+            </div>
+          </div>
+        </div>
 
       </div><!-- carousel-inner -->
+
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
     </div><!-- /.carousel -->
@@ -132,7 +136,7 @@ Tanja Jäger und ihr Team</p>
         <div class="col-lg-4">
           <img src="images/facebook.png" alt="Facebook" />
           <h2>Social Media</h2>
-          <p>Connect <a href="https://www.facebook.com/stadtcafe.neuenstadt" target="_blank"><b>here</b></a>...</p>
+          <p><a href="https://www.facebook.com/stadtcafe.neuenstadt" target="_blank"><b>Hier</b></a> geht's zur <a href="https://www.facebook.com/stadtcafe.neuenstadt" target="_blank">Facebook</a> Seite...</p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img src="images/home.png" alt="Adresse" />
