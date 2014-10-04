@@ -67,8 +67,9 @@
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-	<li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner">
       
@@ -112,6 +113,21 @@
                 <div class="col-md-8">
               <h1>Frühstück</h1>
               <p>Mittwoch bis Sonntag, ab 09:00h!</p>
+                </div>
+              </div><!-- row -->
+              </div><!-- container -->
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
+                <div class="col-md-8">
+              <h1>Oktober-Empfehlung</h1>
+              <p>Schwäbischer Federweißer und Zwiebelkuchen</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
