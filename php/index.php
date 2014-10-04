@@ -77,9 +77,8 @@
             <div class="carousel-caption">
               <div class="container-fluid">
               <div class="row">
-                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-4"><img src="images/logo.png" alt="Logo" class="img-thumbnail"/></div>
-                <div class="col-md-4">
+                <div class="col-md-8">
                   Cafe Helmbundhöhe wird 
                   <h1>Stadtcafe</h1>
                   <p>Der Name ändert sich, der Anspruch bleibt!</p>
