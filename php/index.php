@@ -69,7 +69,6 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
       </ol>
       <div class="carousel-inner">
       
@@ -78,10 +77,12 @@
             <div class="carousel-caption">
               <div class="container-fluid">
               <div class="row">
-                <div class="col-md-4"><img src="images/logo.png" alt="Logo" class="img-thumbnail"/></div>
+                <div class="col-md-4"><img src="images/logo.png" style="height: 300px" alt="Logo" class="img-thumbnail"/></div>
                 <div class="col-md-8">
                   <h2>Das <b>Stadtcafe</b> Team</h2>
-                  <p>wünscht allen Gästen, Nicht-Gästen und zukünftigen Gästen besinnliche Feiertage!</p>
+                  <p>wünscht allen Gästen, Nicht-Gästen und zukünftigen Gästen</p>
+		  <p>besinnliche Feiertage</p>
+		  <p>und einen guten Rutsch ins neue Jahr!</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
@@ -95,8 +96,10 @@
               <div class="row">
                 <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-8">
-                  <h1>Neue Öffnungszeiten!</h1>
-                  <p>Ab Oktober haben wir schon ab Mittwoch für euch geöffnet!</p>
+                  <h1>Neue Öffnungszeiten 2015!</h1>
+		  <p>Ab 07. Januar 2015 sind wir wie gewohnt</p>
+		  <p>Mittwoch - Samstag von 09:00h bis 18:00h</p>
+		  <p>Sonntags von 12:00h bis 18:00h</p> für euch da!
                 </div>
               </div><!-- row -->
               </div><!-- container -->
@@ -112,21 +115,6 @@
                 <div class="col-md-8">
               <h1>Frühstück</h1>
               <p>Mittwoch bis Sonntag, ab 09:00h!</p>
-                </div>
-              </div><!-- row -->
-              </div><!-- container -->
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="container">
-            <div class="carousel-caption">
-              <div class="container-fluid">
-              <div class="row">
-                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
-                <div class="col-md-8">
-              <h1>Oktober-Empfehlung</h1>
-              <p>Schwäbischer Federweißer und Zwiebelkuchen</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
