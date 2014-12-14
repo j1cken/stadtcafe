@@ -80,8 +80,8 @@
               <div class="row">
                 <div class="col-md-4"><img src="images/logo.png" alt="Logo" class="img-thumbnail"/></div>
                 <div class="col-md-8">
-                  <h2>Das</h2> <h1>Stadtcafe</h1> <h2>Team</h2>
-                  <p>wuenscht allen Gaesten und Nicht-Gaesten besinnliche Feiertage!</p>
+                  <h2>Das <b>Stadtcafe</b> Team</h2>
+                  <p>wünscht allen Gästen, Nicht-Gästen und zukünftigen Gästen besinnliche Feiertage!</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
