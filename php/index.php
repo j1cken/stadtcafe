@@ -99,7 +99,7 @@
                   <h1>Neue Öffnungszeiten 2015!</h1>
 		  <p>Ab 07. Januar 2015 sind wie folgt für euch da:</p>
 		  <p>Mittwoch - Samstag von 09:00h bis 18:00h</p>
-		  <p>Sonntags <b>von 12:00h</b> bis 18:00h</p>
+		  <p style="color: red">Sonntags <b>von 12:00h</b> bis 18:00h</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
