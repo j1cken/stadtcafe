@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -80,9 +80,8 @@
               <div class="row">
                 <div class="col-md-4"><img src="images/logo.png" alt="Logo" class="img-thumbnail"/></div>
                 <div class="col-md-8">
-                  Cafe Helmbundhöhe wird 
-                  <h1>Stadtcafe</h1>
-                  <p>Der Name ändert sich, der Anspruch bleibt!</p>
+                  <h2>Das</h2> <h1>Stadtcafe</h1> <h2>Team</h2>
+                  <p>wuenscht allen Gaesten und Nicht-Gaesten besinnliche Feiertage!</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
