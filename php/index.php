@@ -114,7 +114,7 @@
                 <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-8">
               <h1>Frühstück</h1>
-              <p>Mittwoch bis Sonntag, ab 09:00h!</p>
+              <p>Mittwoch bis Samstag, ab 09:00h!</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
