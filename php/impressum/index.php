@@ -50,7 +50,14 @@
                 <li><a href="/#cimbali">Die Maschine</a></li>
                 <li><a href="/#teecultur">Der Tee</a></li>
                 <li><a href="/#feyerabend">Der Kuchen</a></li>
-                <li><a href="/karte">Die Karte</a></li>
+		<li class="dropdown">
+          	  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Die Karten<span class="caret"></span></a>
+          	  <ul class="dropdown-menu" role="menu">
+		    <li><a href="/karte/speisekarte.html">Speisekarte</a></li>
+		    <li class="divider"></li>
+		    <li><a href="/karte/teekarte.html">Teekarte</a></li>
+		  </ul>
+		</li>
                 <li><a href="/impressum">Impressum</a></li>
               </ul>
             </div>
