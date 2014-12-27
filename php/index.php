@@ -167,8 +167,8 @@
           <h2>Öffnungszeiten</h2>
           <p>Mittwoch - Samstag</p>
           <p>09:00h - 18:00h</p>
-          <p>Sonntag</p>
-          <p>12:00h - 18:00h</p>
+          <p><b>Sonntag</b></p>
+          <p><b>12:00h - 18:00h</b></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
           <img src="images/facebook.png" alt="Facebook" />
