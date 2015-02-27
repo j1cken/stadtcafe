@@ -75,45 +75,14 @@
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
+	<!--
         <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
+	-->
       </ol>
       <div class="carousel-inner">
       
         <div class="item active">
-          <div class="container">
-            <div class="carousel-caption">
-              <div class="container-fluid">
-              <div class="row">
-                <div class="col-md-4"><img src="images/logo.png" style="height: 300px" alt="Logo" class="img-thumbnail"/></div>
-                <div class="col-md-8">
-                  <h2>Das <b>Stadtcafe</b> Team</h2>
-		  <p>macht Weihnachtsferien.</p>
-		  <p>Wir sind ab Mi, dem 07. Januar 2015 wieder für euch da!</p>
-                </div>
-              </div><!-- row -->
-              </div><!-- container -->
-            </div>
-          </div>
-        </div>
-        <div class="item">
-          <div class="container">
-            <div class="carousel-caption">
-              <div class="container-fluid">
-              <div class="row">
-                <div class="col-md-4"><img src="images/logo.png" style="height: 300px" alt="Logo" class="img-thumbnail"/></div>
-                <div class="col-md-8">
-                  <h2>Das <b>Stadtcafe</b> Team</h2>
-                  <p>wünscht allen Gästen, Nicht-Gästen und zukünftigen Gästen</p>
-		  <p>besinnliche Feiertage</p>
-		  <p>und einen guten Rutsch ins neue Jahr!</p>
-                </div>
-              </div><!-- row -->
-              </div><!-- container -->
-            </div>
-          </div>
-        </div>
-        <div class="item">
           <div class="container">
             <div class="carousel-caption">
               <div class="container-fluid">
