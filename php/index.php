@@ -91,7 +91,7 @@
                 <div class="col-md-8">
                   <h1>Frohe Ostern!</h1>
 		  <p>Das Stadtcafe Team wünscht allen ein frohes Osterfest!</p>
-		  <p>Am Ostermontag bleibt das Cafe geschlossen.</p>
+		  <p>Am Ostermontag ist das Cafe von 13:00 - 17:00 Uhr geöffnet.</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
