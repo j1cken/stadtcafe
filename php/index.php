@@ -89,9 +89,9 @@
               <div class="row">
                 <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-8">
-                  <h1>Frohe Ostern!</h1>
-		  <p>Das Stadtcafe Team wünscht allen ein frohes Osterfest!</p>
-		  <p>Am Ostermontag ist das Cafe von 13:00 - 17:00 Uhr geöffnet.</p>
+                  <h1>1. Mai geschlossen!</h1>
+		  <p>Das Stadtcafe bleibt am 1. Mai geschlossen!</p>
+		  <p>Wir sind am Samstag, den 2. Mai, wie gewohnt ab 09:00Uhr wieder da!</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
