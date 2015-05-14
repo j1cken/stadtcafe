@@ -75,30 +75,14 @@
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
 	<!--
+        <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
 	-->
       </ol>
       <div class="carousel-inner">
       
         <div class="item active">
-          <div class="container">
-            <div class="carousel-caption">
-              <div class="container-fluid">
-              <div class="row">
-                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
-                <div class="col-md-8">
-                  <h1>1. Mai geschlossen!</h1>
-		  <p>Das Stadtcafe bleibt am 1. Mai geschlossen!</p>
-		  <p>Wir sind am Samstag, den 2. Mai, wie gewohnt ab 09:00Uhr wieder da!</p>
-                </div>
-              </div><!-- row -->
-              </div><!-- container -->
-            </div>
-          </div>
-        </div>
-        <div class="item">
           <div class="container">
             <div class="carousel-caption">
               <div class="container-fluid">
