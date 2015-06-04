@@ -75,8 +75,8 @@
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
-	<!--
         <li data-target="#myCarousel" data-slide-to="2"></li>
+	<!--
         <li data-target="#myCarousel" data-slide-to="3"></li>
 	-->
       </ol>
@@ -89,8 +89,25 @@
               <div class="row">
                 <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-8">
+                  <h1>Das Stadtcafe macht Urlaub!</h1>
+		  <p>Das Cafe ist vom 01.06. bis 07.06. geschlossen.</p>
+		  <p>Wir sind am 10.06. ab 09:00Uhr wieder da!</p>
+                </div>
+              </div><!-- row -->
+              </div><!-- container -->
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
+                <div class="col-md-8">
                   <h1>Neue Öffnungszeiten 2015!</h1>
 		  <p>Ab 07. Januar 2015 sind wir wie folgt für euch da:</p>
+		  <p>Montag und Dienstag geschlossen!</p>
 		  <p>Mittwoch - Samstag von 09:00h bis 18:00h</p>
 		  <p style="color: red">Sonn- und Feiertage <b>von 12:00h</b> bis 18:00h</p>
                 </div>
@@ -134,6 +151,7 @@
         <div class="col-lg-4">
           <img src="images/clock.png" alt="Clockwork" />
           <h2>Öffnungszeiten</h2>
+          <p>Montag und Dienstag geschlossen</p>
           <p>Mittwoch - Samstag</p>
           <p>09:00h - 18:00h</p>
           <p><b>Sonn- und Feiertage</b></p>
