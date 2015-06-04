@@ -151,7 +151,7 @@
         <div class="col-lg-4">
           <img src="images/clock.png" alt="Clockwork" />
           <h2>Öffnungszeiten</h2>
-          <p>Montag und Dienstag geschlossen</p>
+          <p><b>Montag und Dienstag geschlossen</b></p>
           <p>Mittwoch - Samstag</p>
           <p>09:00h - 18:00h</p>
           <p><b>Sonn- und Feiertage</b></p>
