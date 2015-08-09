@@ -87,7 +87,7 @@
             <div class="carousel-caption">
               <div class="container-fluid">
               <div class="row">
-                <div class="col-md-4"><img src="images/palme.png" alt="Info"/></div>
+                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-8">
                   <h1>Wichtige Info</h1>
 			<p>Am Sonntag, den 16.08. bleibt das Cafe aufgrund eines familiären Anlasses geschlossen.</p>
@@ -102,7 +102,7 @@
             <div class="carousel-caption">
               <div class="container-fluid">
               <div class="row">
-                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
+                <div class="col-md-4"><img src="images/palme.png" alt="Info"/></div>
                 <div class="col-md-8">
                   <h1>Sommerferien im Stadtcafe</h1>
 		  <p>Wir machen Ferien von Freitag, 21.08. bis Freitag, 04.09.2015</p>
