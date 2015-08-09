@@ -105,7 +105,7 @@
                 <div class="col-md-4"><img src="images/palme.png" alt="Info"/></div>
                 <div class="col-md-8">
                   <h1>Sommerferien im Stadtcafe</h1>
-		  <p>Wir machen Ferien von Freitag, 21.08. bis Freitag, 04.09.2015</p>
+		  <p>Wir machen Ferien von Freitag, 21.08. bis Sonntag, 06.09.2015</p>
 		  <p>Das Cafe ist <b>ab Mittwoch, 09.09.</b> wieder zu den üblichen Zeiten <b>geöffnet</b>!</p>
                 </div>
               </div><!-- row -->
