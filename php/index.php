@@ -91,7 +91,7 @@
                 <div class="col-md-8">
                   <h1>Sommerferien im Stadtcafe</h1>
 		  <p>Wir machen Ferien von Samstag, 22.08. bis Freitag, 04.09.2015</p>
-		  <p>Das Cafe ist <b>ab 05.09.</b> wieder zu den üblichen Zeiten <b>geöffnet</b>!</p>
+		  <p>Das Cafe ist <b>ab Samstag, 05.09.</b> wieder zu den üblichen Zeiten <b>geöffnet</b>!</p>
 			<p></p>
 			<p>Am Sonntag, den 30.08. bleibt das Cafe aufgrund eines familiären Anlasses geschlossen.</p>
                 </div>
