@@ -122,6 +122,8 @@
                 <div class="col-md-8">
               <h1>Frühstück</h1>
               <p>Mittwoch bis Samstag, ab 09:00h!</p>
+              <p>Wählen Sie aus dem reichhaltigen Angebot vom einfachen Schwäbischen bis zum Genussfrühstück für Zwei</p>
+              <p>Es ist für jeden was dabei ... Guten Hunger!</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
