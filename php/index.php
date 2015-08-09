@@ -109,7 +109,7 @@
                 <div class="col-md-8">
                   <h1>Neue Öffnungszeiten 2015!</h1>
 		  <p>Ab 07. Januar 2015 sind wir wie folgt für euch da:</p>
-		  <p>Montag und Dienstag geschlossen!</p>
+		  <p>Montag und Dienstag Ruhetag!</p>
 		  <p>Mittwoch - Samstag von 09:00h bis 18:00h</p>
 		  <p style="color: red">Sonn- und Feiertage <b>von 12:00h</b> bis 18:00h</p>
                 </div>
