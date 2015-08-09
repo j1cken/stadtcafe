@@ -87,7 +87,7 @@
             <div class="carousel-caption">
               <div class="container-fluid">
               <div class="row">
-                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
+                <div class="col-md-4"><img src="images/palme.png" alt="Info"/></div>
                 <div class="col-md-8">
                   <h1>Sommerferien im Stadtcafe</h1>
 		  <p>Wir machen Ferien von Samstag, 22.08. bis Freitag, 04.09.2015</p>
