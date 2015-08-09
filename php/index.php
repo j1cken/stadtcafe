@@ -89,9 +89,11 @@
               <div class="row">
                 <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-8">
-                  <h1>Das Stadtcafe macht Urlaub!</h1>
-		  <p>Das Cafe ist vom 01.06. bis 07.06. geschlossen.</p>
-		  <p>Wir sind am 10.06. ab 09:00Uhr wieder da!</p>
+                  <h1>Sommerferien im Stadtcafe</h1>
+		  <p>Wir machen Ferien von Samstag, 22.08. bis Freitag, 04.09.2015</p>
+		  <p>Das Cafe ist ab <b>05.09.</b> wieder zu den üblichen Zeiten geöffnet!</p>
+			<p></p>
+			<p>Am Sonntag, den 30.08. bleibt das Cafe aus privaten Gründen geschlossen.</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
