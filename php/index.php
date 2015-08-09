@@ -89,11 +89,8 @@
               <div class="row">
                 <div class="col-md-4"><img src="images/palme.png" alt="Info"/></div>
                 <div class="col-md-8">
-                  <h1>Sommerferien im Stadtcafe</h1>
-		  <p>Wir machen Ferien von Freitag, 21.08. bis Freitag, 04.09.2015</p>
-		  <p>Das Cafe ist <b>ab Mittwoch, 09.09.</b> wieder zu den üblichen Zeiten <b>geöffnet</b>!</p>
-			<p></p>
-			<p>Am Sonntag, den 30.08. bleibt das Cafe aufgrund eines familiären Anlasses geschlossen.</p>
+                  <h1>Wichtige Info</h1>
+			<p>Am Sonntag, den 16.08. bleibt das Cafe aufgrund eines familiären Anlasses geschlossen.</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
@@ -107,11 +104,9 @@
               <div class="row">
                 <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
                 <div class="col-md-8">
-                  <h1>Neue Öffnungszeiten 2015!</h1>
-		  <p>Ab 07. Januar 2015 sind wir wie folgt für euch da:</p>
-		  <p>Montag und Dienstag Ruhetag!</p>
-		  <p>Mittwoch - Samstag von 09:00h bis 18:00h</p>
-		  <p style="color: red">Sonn- und Feiertage <b>von 12:00h</b> bis 18:00h</p>
+                  <h1>Sommerferien im Stadtcafe</h1>
+		  <p>Wir machen Ferien von Freitag, 21.08. bis Freitag, 04.09.2015</p>
+		  <p>Das Cafe ist <b>ab Mittwoch, 09.09.</b> wieder zu den üblichen Zeiten <b>geöffnet</b>!</p>
                 </div>
               </div><!-- row -->
               </div><!-- container -->
