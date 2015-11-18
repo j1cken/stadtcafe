@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: cassette;
-    src: url(/php/fonts/alphabetized _cassette_tapes.ttf);
+    src: url(/php/fonts/alphabetized_cassette_tapes.woff2) format('woff2');
 }
 
 body {
