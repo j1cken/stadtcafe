@@ -74,15 +74,46 @@
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-	<!--
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
+	<!--
         <li data-target="#myCarousel" data-slide-to="3"></li>
 	-->
       </ol>
       <div class="carousel-inner">
       
         <div class="item active">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-4"><img src="images/info.png" alt="Info"/></div>
+                <div class="col-md-8">
+                  <h1>Wichtige Info</h1>
+			<p>Am Sonntag, den 16.08. bleibt das Cafe aufgrund eines familiären Anlasses geschlossen.</p>
+                </div>
+              </div><!-- row -->
+              </div><!-- container -->
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="container">
+            <div class="carousel-caption">
+              <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-4"><img src="images/palme.png" alt="Info"/></div>
+                <div class="col-md-8">
+                  <h1>Sommerferien im Stadtcafe</h1>
+		  <p>Wir machen Ferien von Freitag, 21.08. bis Sonntag, 06.09.2015</p>
+		  <p>Das Cafe ist <b>ab Mittwoch, 09.09.</b> wieder zu den üblichen Zeiten <b>geöffnet</b>!</p>
+                </div>
+              </div><!-- row -->
+              </div><!-- container -->
+            </div>
+          </div>
+        </div>
+        <div class="item">
           <div class="container">
             <div class="carousel-caption">
               <div class="container-fluid">
