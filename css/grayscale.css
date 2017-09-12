@@ -7,7 +7,8 @@
 @font-face {
     font-family: cassette;
     /*src: url(/fonts/alphabetized_cassette_tapes.woff2) format('woff2');*/
-    src: url(/fonts/MarckScript-Regular.woff2) format('woff2');
+    /*src: url(/fonts/MarckScript-Regular.woff2) format('woff2');*/
+    src: url(/fonts/LaBelleAurore.woff2) format('woff2');
 }
 
 body {
